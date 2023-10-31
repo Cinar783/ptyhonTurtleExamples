@@ -21,5 +21,4 @@ turtle_function(30)
 turtle_function(10)
 
 
-
 turtle.done()
